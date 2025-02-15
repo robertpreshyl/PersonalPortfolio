@@ -13,8 +13,8 @@ title                    : "Robert Preshyl's Portfolio"
 title_separator          : "-"
 name                     : &name "Robert Preshyl"
 description              : &description "Personal Portfolio and Academic Pages"
-url                      : https://robertpreshyl.github.io # the base hostname & protocol for your site
-baseurl                  : "/PersonalPortfolio" # the subpath of your site, e.g. "/blog"
+url                      : "https://robert-preshyl-portfolio.pages.dev" # the base hostname & protocol for your site
+baseurl                  : "" # empty for Cloudflare Pages
 repository               : "robertpreshyl/PersonalPortfolio"
 
 # Site Author - The following control what appear as part of the author content on the side bar.

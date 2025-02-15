@@ -1,0 +1,1 @@
+{ "build": { "command": "bundle exec jekyll build", "output_directory": "_site", "root": "/" } }
